@@ -1,5 +1,5 @@
-# blocker-terminal-app
-Blocker is a whitelisting, blacklisting outbound restrict terminal app, work only in MacOS.
+# 🛡️ Blocker Terminal App
+### Blocker is a whitelisting, blacklisting outbound restrict terminal app, work only in MacOS.
 
 # 🛡️ macOS Website Blocker with pf and Python
 
